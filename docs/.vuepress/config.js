@@ -32,15 +32,15 @@ module.exports = {
   title: 'User Getter',
   description: 'Help & Support For User Getter by AdminRemix',
   themeConfig: {
-  //     nav: [
-  //         { text: 'Home', link: '/' },
-  //         { text: 'Guide', link: '/guide/' },
-  //         { text: 'Chromebook Actions', link: '/chromebook-actions/'},
-  //         { text: 'Premium Actions', link: '/premium-account/'},
-  //         { text: 'Roadmap', link: '/product-roadmap/'},
-  //         { text: 'Pricing', link: '/pricing/' },
-  //         // { text: 'Advice & Guides', link: '/post/'}
-  //     ],
+      nav: [
+          { text: 'Home', link: '/' },
+        //   { text: 'Guide', link: '/guide/' },
+        //   { text: 'Chromebook Actions', link: '/chromebook-actions/'},
+        //   { text: 'Premium Actions', link: '/premium-account/'},
+        //   { text: 'Roadmap', link: '/product-roadmap/'},
+        //   { text: 'Pricing', link: '/pricing/' },
+        // { text: 'Advice & Guides', link: '/post/'}
+      ],
       // sidebar: {
       //     '/guide/': [
       //         '',
