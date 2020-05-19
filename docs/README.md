@@ -2,9 +2,9 @@
 home: true
 heroImage: /logo.png
 actionText: Install Now →
-actionLink: https://chrome.google.com/webstore/detail/chromebook-getter/iamajmlafjfaobppjfllijpikffekpok?authuser=0
+actionLink: https://gsuite.google.com/marketplace/app/user_getter_by_adminremix/717877121214
 features:
-- title: User Getter Coming Soon
+- title: User Getter by AdminRemix
 footer: Copyright © 2018 - Present | AdminRemix LLC
 ---
 
